@@ -1,4 +1,4 @@
-package fr.afpa.module;
+package fr.afpa.module2;
 
 import java.util.Calendar;
 import java.util.GregorianCalendar;

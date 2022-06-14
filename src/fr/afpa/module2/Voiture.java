@@ -1,4 +1,4 @@
-package fr.afpa.module;
+package fr.afpa.module2;
 
 public class Voiture {
     public void jeRoule(int kmh) {

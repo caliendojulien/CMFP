@@ -1,7 +1,6 @@
-package fr.afpa.module;
+package fr.afpa.module2;
 
 import java.util.GregorianCalendar;
-import java.util.Random;
 
 public class Module02 {
     public static void main(String[] args) {

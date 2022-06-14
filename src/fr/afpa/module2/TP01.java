@@ -1,9 +1,8 @@
-package fr.afpa.module;
+package fr.afpa.module2;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.Arrays;
-import java.util.GregorianCalendar;
 import java.util.Random;
 import java.util.Scanner;
 
