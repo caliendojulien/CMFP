@@ -1,8 +1,12 @@
 package fr.afpa.module3.tp3;
 
+import java.time.LocalTime;
+
 public class Main {
     public static void main(String[] args) {
-        int i = 42;
-        System.out.println((i > 12) ? "OK" : "PAS OK");
+        MedecinGeneraliste mg = new MedecinGeneraliste();
+        LocalTime khfeozjhvuezh = null;
+        int ocezhjcoiezhfvuez = 15;
+        mg.ajouterCreneau(khfeozjhvuezh, ocezhjcoiezhfvuez);
     }
 }
